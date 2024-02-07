@@ -2,3 +2,10 @@
 body {
     background-color: black;
 }
+
+/* link */
+a {
+    color: green;    
+}
+    /* color verde #117a37 (código hexadecimal */
+    /* color body #1c1e1f */

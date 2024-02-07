@@ -1,0 +1,16 @@
+body{
+    background-color: #1c1e1f
+}
+
+h2, h3, h4, h5, p{
+    color:aliceblue;
+    text-align: justify;
+}
+
+a{
+    color:  #117a37;
+}
+
+li{
+    color:aliceblue;
+}
